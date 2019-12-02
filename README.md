@@ -25,5 +25,5 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 安装html2canvans
+npm install --save html2canvas
